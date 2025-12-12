@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Panama eSIM - Unlimited Data | Local Number | Privacy</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(135deg, #0b4d9f, #e6f3ff);
+        color: #000;
+    }
+
+    header {
+        text-align: center;
+        padding: 40px 20px;
+        color: #fff;
+    }
+
+    h1 {
+        margin: 0;
+        font-size: 2.5rem;
+    }
+
+    .section {
+        background: #fff;
+        margin: 20px auto;
+        max-width: 900px;
+        padding: 25px;
+        border-radius: 10px;
+        box-shadow: 0px 4px 15px rgba(0,0,0,0.08);
+    }
+
+    .plans div {
+        background: #f3f7ff;
+        padding: 15px;
+        margin: 10px 0;
+        border-radius: 8px;
+        border-left: 5px solid #0b4d9f;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 14px 24px;
+        background: #0b4d9f;
+        color: #fff;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 1.1rem;
+        margin-top: 15px;
+    }
+
+    .contact-buttons {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .contact-buttons a {
+        padding: 12px 20px;
+        background: #25d366;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: bold;
+    }
+
+    .contact-buttons a.telegram {
+        background: #2aabee;
+    }
+
+    footer {
+        text-align: center;
+        padding: 20px;
+        font-size: 0.9rem;
+        opacity: 0.8;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Panama eSIM Provider</h1>
+    <p>Unlimited Data • Local Number • Privacy Guaranteed</p>
+</header>
+
+<div class="section">
+    <h2>About Our Service</h2>
+    <p>
+        We are a small independent eSIM provider in Panama. All eSIM QR codes,
+        registrations, and payments are handled <strong>manually</strong> by our team after payment.
+    </p>
+
+    <p>
+        We can tailor a <strong>custom data + calls plan</strong> depending on your trip schedule.
+        All our plans include <strong>unlimited high-speed data with no throttling</strong>.
+    </p>
+
+    <p>
+        Local phone numbers for calls & SMS are available.<br>
+        Providers require registration—<strong>we privately register your eSIM so you remain anonymous.</strong>
+    </p>
+
+    <p>
+        We may pay a small return fee when deleting the eSIM.  
+        After 2 months without a top-up, the network provider will revoke the eSIM.
+    </p>
+</div>
+
+<div class="section plans">
+    <h2>Our eSIM Plans</h2>
+
+    <div>
+        <h3>🌐 1-Day Unlimited Data — $5</h3>
+        <p>No discounts on 1-day plan.</p>
+    </div>
+
+    <div>
+        <h3>📆 1-Week Unlimited Data — $25</h3>
+        <p>Eligible for <strong>10% discount</strong>.</p>
+    </div>
+
+    <div>
+        <h3>🗓️ 1-Month Unlimited Data — $60</h3>
+        <p>Eligible for <strong>30% discount</strong>.</p>
+    </div>
+
+    <p><strong>Tell us how long you will stay so we tailor the perfect plan.</strong></p>
+</div>
+
+<div class="section">
+    <h2>Payment Options</h2>
+
+    <h3>💳 Pay with Credit/Debit Card or PayPal</h3>
+    <p>Payments are processed manually. After payment we send your eSIM QR code.</p>
+
+    <!-- PAYPAL DIRECT PAY BUTTON USING MERCHANT ID -->
+    <a class="btn" href="https://www.paypal.com/paypalme/GBD58RHFQTR6Y" target="_blank">
+        Pay with PayPal / Card
+    </a>
+
+    <h3>🪙 Pay with Crypto</h3>
+    <p><strong>Contact us via WhatsApp or Telegram for crypto wallet address and supported networks.</strong></p>
+</div>
+
+<div class="section">
+    <h2>Contact Us</h2>
+    <p>We respond immediately. Message us for discounts, custom plans, or crypto payments.</p>
+
+    <div class="contact-buttons">
+        <a href="https://wa.me/50768357845" target="_blank">WhatsApp</a>
+        <a href="https://t.me/barkr996" class="telegram" target="_blank">Telegram</a>
+    </div>
+
+    <p style="margin-top:10px; font-weight:bold;">
+        💬 Contact us on WhatsApp for special offers and extra discounts!
+    </p>
+</div>
+
+<footer>
+    <p>Privacy Notice: We do NOT store end-user information or payment details.</p>
+    <p>© 2025 Panama eSIM Provider</p>
+</footer>
+
+</body>
+</html>
